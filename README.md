@@ -8,7 +8,9 @@ This is the **feature** one. Click here fro more details about [https://techwrit
 
 This is the _sub feature_ one. Below is the bullet list:
 -A
+
 -B
+
 -C
 
 # Feature two
