@@ -18,3 +18,7 @@ This is the feature two. Below is the list
 2. Two
 3. Three
 4. Four
+
+# Feature three
+
+This is the feature three.
