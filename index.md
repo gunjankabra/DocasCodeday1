@@ -31,3 +31,5 @@ This is the feature three.
 # Feature four
 
 Dislay your name from local variable {{page.Name}}
+
+This is global variable {{site.author}}
