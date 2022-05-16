@@ -25,9 +25,11 @@ This is the _sub feature_ one. Below is the bullet list:
 
 This is the feature two. Below is the list
 1. One
-2. Two
-3. Three
-4. Four
+  * A
+  * B
+3. Two
+4. Three
+5. Four
 
 # Feature three
 
@@ -38,3 +40,7 @@ This is the feature three.
 Dislay your name from local variable {{page.Name}}
 
 This is global variable {{site.author}}
+
+````
+This is a piece of code.
+````
