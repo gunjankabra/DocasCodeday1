@@ -25,8 +25,8 @@ This is the _sub feature_ one. Below is the bullet list:
 
 This is the feature two. Below is the list
 1. One
-  * A
-  * B
+ * A
+ * B
 3. Two
 4. Three
 5. Four
