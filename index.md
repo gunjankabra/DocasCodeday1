@@ -1,4 +1,5 @@
 ---
+title: Documentation
 Name: Gunjan Kabra
 layout: template.html
 ---
