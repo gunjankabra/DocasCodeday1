@@ -50,4 +50,4 @@ This is global variable {{site.author}}
 ````
 This is a piece of code.
 ````
-To delete the file click ![Delete](C:\Users\gkabra\Documents\Products\TWT Training\delete.png "Delete Icon")
+To delete the file click ![Delete](/DocasCodeday1/assets/delete.png "Delete Icon")
