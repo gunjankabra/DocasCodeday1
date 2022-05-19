@@ -39,6 +39,8 @@ This is the feature two. Below is the list
 
 This is the feature three.
 
+> This is an important note.
+
 # Feature four
 
 Dislay your name from local variable {{page.Name}}
