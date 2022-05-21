@@ -25,6 +25,8 @@ This is the _sub feature_ one. Below is the bullet list:
 - B
 - C
 
+{% include footer.txt %}
+
 # Feature two
 
 This is the feature two. Below is the list
