@@ -55,5 +55,5 @@ This is a piece of code.
 To delete the file click ![](/DocasCodeday1/assets/images/delete.png "Delete Icon")
 
 | First Name | Last Name |
-|---|---|
-| Gunjan     | Kabra     |
+| --- | --- |
+| Gunjan | Kabra |
