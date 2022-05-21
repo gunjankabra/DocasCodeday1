@@ -1,7 +1,7 @@
 ---
 title: Documentation
 Name: Gunjan Kabra
-layout: template.html
+layout: template
 ---
 
 # DocasCodeday1
