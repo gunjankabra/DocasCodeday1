@@ -52,7 +52,7 @@ This is global variable {{site.author}}
 ````
 This is a piece of code.
 ````
-To delete the file click ![](/DocasCodeday1/docs/assets/images/delete.png "Delete Icon")
+To delete the file click ![](/DocasCodeday1/assets/images/delete.png "Delete Icon")
 
 | First Name | Last Name |
 |------------|-----------|
